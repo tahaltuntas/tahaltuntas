@@ -18,3 +18,4 @@
 
 [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Taha Altuntaş](https://www.instagram.com/tahaltuntas/)
 
+<a href="https://ibb.co/MGMm1Tp"><img src="https://i.ibb.co/MGMm1Tp/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
