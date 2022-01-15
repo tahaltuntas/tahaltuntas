@@ -9,7 +9,7 @@
 
 ## ✉️ How to contact me
 
-![Mail](https://i.ibb.co/MGMm1Tp/Gmail-logo.png)
+![Mail](https://i.ibb.co/8m632SG/gmail-logo-1.png)
 <a href="mailto: tahaltuntas@gmail.com"> tahaltuntas@gmail.com </a>
 
 [![LinkedIn](https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png) Taha Altuntaş](https://www.linkedin.com/in/tahaltuntas/)
@@ -18,4 +18,5 @@
 
 [![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Taha Altuntaş](https://www.instagram.com/tahaltuntas/)
 
-<a href="https://ibb.co/MGMm1Tp"><img src="https://i.ibb.co/MGMm1Tp/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
+
+
