@@ -9,14 +9,13 @@
 
 ## ✉️ How to contact me
 
-[![Mail](https://i.ibb.co/8m632SG/gmail-logo-1.png)
-<a href="mailto: tahaltuntas@gmail.com"> tahaltuntas@gmail.com </a>
+<b>Mail:</b> tahaltuntas@gmail.com 
 
-[![LinkedIn](https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png) Taha Altuntaş](https://www.linkedin.com/in/tahaltuntas/)
+<b>Linkedin:</b> www.linkedin.com/in/tahaltuntas/
 
-[![Discord](https://i.ibb.co/LY0rmr5/dc.png) tahaltuntas#8575](https://discordapp.com/users/355817270012018688/)
+<b>Discord:</b> tahaltuntas#8575
 
-[![Instagram](https://i.ibb.co/VBFN4DG/instagram-1.png) Taha Altuntaş](https://www.instagram.com/tahaltuntas/)
+
 
 
 
