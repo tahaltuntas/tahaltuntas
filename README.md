@@ -9,7 +9,7 @@
 
 ## ✉️ How to contact me
 
-![Mail](https://i.ibb.co/T0X73K9/gmail.pngg)
+![Mail](https://i.ibb.co/MGMm1Tp/Gmail-logo.png)
 <a href="mailto: tahaltuntas@gmail.com"> tahaltuntas@gmail.com </a>
 
 [![LinkedIn](https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png) Taha Altuntaş](https://www.linkedin.com/in/tahaltuntas/)
