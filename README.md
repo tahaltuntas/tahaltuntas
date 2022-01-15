@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Altuntaş 
-<h2 align="center">Game Development of Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp
+<h2 align="center">Game Development Student of Rollic & oFON Hyper-Casual Mobile Game Development Bootcamp
   
 ## 👨‍💻 I’m currently learning
 
@@ -9,7 +9,7 @@
 
 ## ✉️ How to contact me
 
-![Mail](https://i.ibb.co/8m632SG/gmail-logo-1.png)
+[![Mail](https://i.ibb.co/8m632SG/gmail-logo-1.png)
 <a href="mailto: tahaltuntas@gmail.com"> tahaltuntas@gmail.com </a>
 
 [![LinkedIn](https://i.ibb.co/3fHd1cc/linkedin-socialnetwork-17441.png) Taha Altuntaş](https://www.linkedin.com/in/tahaltuntas/)
